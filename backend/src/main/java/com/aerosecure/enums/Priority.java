@@ -1,0 +1,8 @@
+package com.aerosecure.enums;
+
+public enum Priority {
+    LOW,
+    MEDIUM,
+    HIGH,
+    CRITICAL
+}
